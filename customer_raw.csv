@@ -1,0 +1,8 @@
+customer_id,name,email,signup_date,total_spend
+101,Alice Johnson,alice@example.com,1/15/2024,"1,250"
+102,Bob Lee,bob@example.com,2/5/2024,980
+,Chris Morris,chris@example.com,3/22/2024,"1,100"
+104,,diana@example.com,3/25/2024,750
+105,Evan Stone,,4/10/2024,"2,300"
+106,Fiona Adams,fiona@example.com,5/1/2024,
+107,George King,george@example.com,5/18/2024,"1,450"
